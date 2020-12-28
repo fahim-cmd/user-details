@@ -1,0 +1,22 @@
+.info{
+    border: 2px solid tomato;
+    margin: 10px;
+    padding: 5px;
+    display: flex;        
+}
+.numberBtn{
+    background-color: goldenrod;
+    padding:3px 35px 3px 35px;
+    margin-right: 5px;
+    border-radius:5px;
+    color: white;
+    font-weight:500;
+}
+.addBtn{
+    background-color: goldenrod;
+    padding:3px 35px 3px 35px;
+    margin-top: 5px;
+    border-radius:5px;
+    color: white;
+    font-weight:500;
+}
